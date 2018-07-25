@@ -11,7 +11,7 @@ def change_rainbow_colors
     "light_red"
     "light_yellow"
 ]
-  
+end  
 end
 
 def add_colors
