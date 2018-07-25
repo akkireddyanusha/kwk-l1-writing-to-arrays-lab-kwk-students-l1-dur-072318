@@ -9,8 +9,7 @@ def change_rainbow_colors
   change_rainbow_colors=[ 
     "red"
     "light_red"
-    "light_yellow"
-]
+    "light_yellow"]
 end  
 end
 
